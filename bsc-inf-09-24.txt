@@ -1,1 +1,5 @@
-
+* commit e74d774e32d3683b81adf4cb4cdc52c8ff8cfcb4
+  Author: bsc-inf-09-24 <bsc-inf-09-24@unima.ac.mw>
+  Date:   Thu Mar 5 16:56:55 2026 +0200
+  
+      Initial commit: added log text file for tracking my progress for the assignment
