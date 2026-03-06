@@ -1,0 +1,42 @@
+*   commit 5c5d7ce0f7ad0ef422e29636c5f153a6bcaed012
+|\  Merge: da415f6 3bcd8bd
+| | Author: bsc-inf-09-24 <bsc-inf-09-24@unima.ac.mw>
+| | Date:   Fri Mar 6 16:33:15 2026 +0200
+| | 
+| |     Preparation of merge to avoid conflict
+| | 
+| * commit 3bcd8bdcb1d04163f32459972730f2f352a76d71
+| | Author: bsc-inf-09-24 <bsc-inf-09-24@unima.ac.mw>
+| | Date:   Fri Mar 6 16:28:17 2026 +0200
+| | 
+| |     Added another html page (index.html) that presents my name and a simple description of myself
+| | 
+| * commit a0aa95aaec2b0d13d6484778e0a7e5c1d17cb73c
+| | Author: bsc-inf-09-24 <bsc-inf-09-24@unima.ac.mw>
+| | Date:   Fri Mar 6 16:09:08 2026 +0200
+| | 
+| |     Added a simple html file
+| | 
+* | commit da415f6c2e48a0a5210e4739fd128b7dde2dbca2
+| | Author: bsc-inf-09-24 <bsc-inf-09-24@unima.ac.mw>
+| | Date:   Fri Mar 6 16:17:35 2026 +0200
+| | 
+| |     Updated my final log text file for the assignment
+| | 
+* | commit 19e41adf89d188d2e017d797ed5e278ad4cb160c
+|/  Author: bsc-inf-09-24 <bsc-inf-09-24@unima.ac.mw>
+|   Date:   Fri Mar 6 16:12:09 2026 +0200
+|   
+|       Updated my final log text file for the assignment
+| 
+* commit c9320812185bc473a5cb97b17227cbda7fe5afee
+| Author: bsc-inf-09-24 <bsc-inf-09-24@unima.ac.mw>
+| Date:   Thu Mar 5 17:58:38 2026 +0200
+| 
+|     Edited text file logs and added .gitignore file to prevent tracking unwanted files
+| 
+* commit e74d774e32d3683b81adf4cb4cdc52c8ff8cfcb4
+  Author: bsc-inf-09-24 <bsc-inf-09-24@unima.ac.mw>
+  Date:   Thu Mar 5 16:56:55 2026 +0200
+  
+      Initial commit: added log text file for tracking my progress for the assignment
