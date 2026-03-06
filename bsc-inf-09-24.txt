@@ -1,3 +1,9 @@
+* commit 156db57561107b9a4fae4b523b1396320eec4f91
+| Author: bsc-inf-09-24 <bsc-inf-09-24@unima.ac.mw>
+| Date:   Fri Mar 6 16:36:53 2026 +0200
+| 
+|     Final Commit for the assignment + Added the final log file for my actions
+|   
 *   commit 5c5d7ce0f7ad0ef422e29636c5f153a6bcaed012
 |\  Merge: da415f6 3bcd8bd
 | | Author: bsc-inf-09-24 <bsc-inf-09-24@unima.ac.mw>
